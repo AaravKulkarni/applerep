@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+#apple{
+    width: 50px;
+}
+#navbar{
+    font-size: 20px;
+    color: black;
+    background-color: whitesmoke;
+    
+}
+#home{
+   background-color: white;
+   height: fit-content;
+}
+.heading{
+    color: grey;
+    font-size: xx-large;
+    font-family: 'Newsreader', serif;
+
+}
+
+#appleslogan{
+    color: gray;
+    font-family: 'Newsreader', serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+#image{
+    width: 250px;
+}
+
+.linkedimg:hover{
+    cursor: pointer;
+}
+
+.linkedimg{
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+}
+
+#image2{
+    width: 100px;
+}
+
+#demo{
+    background-color: whitesmoke;
+}
+
+#controls{
+background-color: black;
+
+}
+
+
+.carousel-caption{
+    color: black;
+    font-style: normal;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+#para{
+    color: gray;
+    font-size: medium;
+    font-family: 'New Tegomin', serif;
+}
+
+
+
+#latest_releases{
+    background-color: rgba(7, 9, 8, 0.6);
+}
+
+.p{
+    color: whitesmoke;
+    font-size: xx-large;
+    font-family: 'Newsreader', serif;
+}
+
+.pi{
+    font-size: medium;
+    color: aliceblue;
+    font-family: 'Newsreader', serif;
+}
+
+
+#applepayment{
+    text-align: center;
+    background-color: azure;
+
+}
+
+input{
+    text-align: center;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content p {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-size: 10px;
+    display: block;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
+
+.po{
+    color: black;
+    font-size: medium;
+}
